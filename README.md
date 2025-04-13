@@ -1,2 +1,4 @@
 # PPRPTeleportMenu
-A teleport menu made for PPRP
+A simple teleport menu made for PPRP using NativeUI
+
+Cordinates and Categorys go into coordinates.json
