@@ -1,0 +1,90 @@
+[
+  {
+      "category": "LSPD",
+      "locations": [
+        {"name": "Vespucci PD", "coords": "-1088.298, -793.1522, 19.23534", "heading": 128.3},
+        {"name": "Rockford Hills PD", "coords": "-554.9328, -135.0505, 38.26282", "heading": 128.3},
+        {"name": "Mission row", "coords": "426.1223, -979.7187, 30.70979", "heading": 128.3},
+        {"name": "Davis PD", "coords": "362.1192, -1578.618, 29.29195", "heading": 128.3},
+        {"name": "Vinewood PD", "coords": "621.2551, 21.02688, 88.3762", "heading": 128.3},
+        {"name": "LSPD Port", "coords": "478.82, -3124.94, 6.07", "heading": 175.74}
+      ]
+    },
+    {
+      "category": "SAHP",
+      "locations": [
+      {"name": "Highway North", "coords": "1525.5, 818.3, 77.75", "heading": 128.3},
+      {"name": "Highway South", "coords": "616.2, -1290, 26.5", "heading": 128.3},
+      {"name": "Highway West", "coords": "-3141, 1122, 21", "heading": 128.3}
+      ]
+    },
+    {
+      "category": "LCSO",
+      "locations": [
+      {"name": "Sandy Shores", "coords": "1809.41, 3668, 34.5", "heading": 128.3},
+      {"name": "Grapeseed Sherrifs Office", "coords": "1658, 4859.5, 42.25", "heading": 128.3}
+      ]
+    },
+    {
+      "category": "PBPD",
+      "locations": [
+        {"name": "Paleto Bay Police Department", "coords": "-440, 6020, 31.75", "heading": 128.3},
+        {"name": "Beaver Bush Rangers Station", "coords": "386.77, 788.6, 188", "heading": 128.3}
+      ]
+    },
+    {
+      "category": "SAMS",
+      "locations": [
+        {"name": "Station 29", "coords": "2535.33, 4217.47, 40.75", "heading": 128.3},
+      {"name": "Station 7", "coords": "1185.32, -1451.15, 35.25", "heading": 128.3},
+      {"name": "Helopad City 2", "coords": "398.41, -67.62, 134.38", "heading": 29.61}
+    ]
+    },
+    {
+      "category": "Events",
+      "locations": [
+        {"name": "Vinewood Bowl", "coords": "693.5, 656.45, 129", "heading": 128.3},
+        {"name": "Sisyphus Theater", "coords": "239.21, 117.89, 225.46", "heading": 100.85},
+        {"name": "Galileo Observatory", "coords": "-389.78, 1171.91, 325.81", "heading": 134.28},
+        {"name": "Mile High Club", "coords": "-123.85, -973.18, 29.37", "heading": 111.49},
+        {"name": "Mile High Club Pool Deck", "coords": "-122.68, -977.89, 115.42", "heading": 199.48},
+        {"name": "Memorial", "coords": "-1731.75, -193.08, 58.3", "heading": 272.11}
+      ]
+    },
+    {
+      "category": "State Certifications",
+      "locations": [
+        {"name": "Harbor Heli-pad", "coords": "-745.21, -1467.88, 5.74", "heading": 316.58},
+        {"name": "Fort Zancudo", "coords": "-1853.69, 2989.82, 32.81", "heading": 62.19}
+      ]
+    },
+    {
+      "category": "Heli-Pads",
+      "locations": [
+        {"name": "Harbor Heli-pad", "coords": "-745.21, -1467.88, 5.74", "heading": 316.58},
+        {"name": "Helopad City 2", "coords": "398.41, -67.62, 134.38", "heading": 29.61},
+        {"name": "Medical Center Heli-pad", "coords": "322.69, -1446.4, 46.51", "heading": 128.1},
+        {"name": "Pillbox Medical Roof", "coords": "339.73, -584.43, 74.17", "heading": 262.29},
+        {"name": "Weazel News Roof", "coords": "-570.09, -927.81, 36.83", "heading": 109.96}
+      ]
+    },
+    {
+      "category": "Misc",
+      "locations": [
+        {"name": "Bolingbroke Penitentiary", "coords": "1857.03, 2584.91, 45.67", "heading": 8.41},
+        {"name": "International Airport", "coords": "-1042.68, -2974.8, 13.95", "heading": 64.17},
+        {"name": "Apartment for meetings", "coords": "-267.67, -964.13, 77.23", "heading": 296.79},
+        {"name": "Los Santos Garage", "coords": "-221.31, -1331.28, 30.89", "heading": 308.31},
+        {"name": "FBI Building Downtown", "coords": "149.19, -750.21, 242.15", "heading": 81.68},
+        {"name": "Chill Office", "coords": "98.3, -1291.29, 29.27", "heading": 81.62},
+        {"name": "Vz's House", "coords": "7.88, 538.71, 176.03", "heading": 159.78},
+        {"name": "Simmet Alley", "coords": "457.65, -818.1, 27.17", "heading": 359.51}
+      ]
+    },
+    {
+      "category": "CRO's",
+      "locations": [
+        {"name": "Apartments (Spawn)", "coords": "-250.43, -972.64, 31.22", "heading": 128.3}
+      ]
+    }
+  ]
